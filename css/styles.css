@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: url(../img/wallpaper.jpg);
+}
+.box__uno
+{
+    height: 30rem;
+}
+.box__uno:nth-child(1)
+{
+    height: 30rem;
+    background-color: #f784;
+}
+.box__dos
+{
+    height: 30rem;
+}
+.box__dos:nth-child(2)
+{
+    background-color: #1f34;
+}
